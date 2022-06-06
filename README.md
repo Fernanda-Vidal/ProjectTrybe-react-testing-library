@@ -49,7 +49,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
   
   * Este projeto é individual;
   * São `X` dias de projeto;
-  * Data para entrega final do projeto: `DD/MM/YYYY - 14:00h`.
+  * Data para entrega final do projeto: `21/06/2022 14:00`.
 
 </details>
 
@@ -60,9 +60,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:tryber/sd-0x-project-react-testing-library.git`.
+  - Use o comando: `git clone git@github.com:tryber/sd-021-a-project-react-testing-library.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd sd-0x-project-react-testing-library`
+    - `cd sd-021-a-project-react-testing-library`
 
   2. Instale as dependências
 
@@ -76,7 +76,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
     - Exemplo: `git checkout master`
   - Agora crie uma branch à qual você vai submeter os `commits` do seu projeto
     - Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-projeto`
-    - Exemplo: `git checkout -b joaozinho-sd-0x-project-react-testing-library`
+    - Exemplo: `git checkout -b joaozinho-sd-021-a-project-react-testing-library`
 
   4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
 
@@ -93,11 +93,11 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   5. Adicione a sua branch com o novo `commit` ao repositório remoto
 
-  - Usando o exemplo anterior: `git push -u origin joaozinho-sd-0x-project-react-testing-library`
+  - Usando o exemplo anterior: `git push -u origin joaozinho-sd-021-a-project-react-testing-library`
 
   6. Crie um novo `Pull Request` _(PR)_
 
-  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-project-react-testing-library/pulls)
+  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-021-a-project-react-testing-library/pulls)
   - Clique no botão verde _"New pull request"_
   - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   - Coloque um título para a sua _Pull Request_
@@ -105,7 +105,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
   - Clique no botão verde _"Create pull request"_
   - Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
   - **Não se preocupe em preencher mais nada por enquanto!**
-  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-project-react-testing-library/pulls) e confira que o seu _Pull Request_ está criado
+  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-021-a-project-react-testing-library/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 
@@ -136,7 +136,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
     - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
-    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-021-a`.
 
   Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
