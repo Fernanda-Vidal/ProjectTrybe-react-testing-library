@@ -1,8 +1,8 @@
 import React from 'react';
 import { screen } from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
 import App from '../App';
 import renderWithRouter from '../components/renderWithRouter';
-import userEvent from '@testing-library/user-event';
 
 describe('Verifica o componente App.js', () => {
   it('Verifica se existe um link Home e se redireciona para "/" ', () => {
