@@ -39,8 +39,6 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   * Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados;
 
-  * Criar mocks de APIs utilizando fetch;
-
   * Testar inputs.
 </details>
 
