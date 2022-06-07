@@ -1,9 +1,9 @@
 import React from 'react';
 import { screen } from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
 import renderWithRouter from '../helpers/renderWithRouter';
 import { FavoritePokemons } from '../pages';
 import App from '../App';
-import userEvent from '@testing-library/user-event';
 
 describe('Verifica o componente FavoritePokemon.js', () => {
   it('Verifica se a mensagem de Not Found é exibida na tela', () => {
